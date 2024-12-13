@@ -8,6 +8,10 @@ Start by selecting the starter template you want to use:
 ## What is the app about?
 We want to have a simple blog app that allows to list and read blog posts.
 
+## API to use
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [Rest API Documentation](https://docs.mockend.com/rest)
+
 ## Tasks
 1. Retrieve 20 blog posts from the [JSON Placeholder](https://jsonplaceholder.typicode.com/) API.
 2. Display each post in a list of [Cards](https://daisyui.com/components/card/) with the following properties:
